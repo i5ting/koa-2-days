@@ -1,6 +1,8 @@
 # koa-2-days
 
 - [付费线下2日Koa集训详情](detail.md)
+- Node.js基础 = es6 + ava + vscode
+- Koa核心 = 异步流程控制 + http + db
 
 
 ## day 1
