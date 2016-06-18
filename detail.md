@@ -80,7 +80,8 @@ Node.js学习有几个点很难突破，我们就针对这些点讲就好了
 
 阅读文档
 
-https://github.com/17koa/koa-guide
+- https://github.com/17koa/koa-guide
+- [Node.js in action](http://git.oschina.net/ubiware/tech-books/blob/master/Node.js_in_action_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ### 费用
 
