@@ -1,9 +1,12 @@
 # koa-2-days
 
 - [付费线下2日Koa集训详情](detail.md)
-- Node.js基础 = es6 + ava + vscode
-- Koa核心 = 异步流程控制 + http + db
 
+以《更了不起的Node 4： 将下一代web框架Koa进行到底》内容为蓝本
+
+- Node.js基础 = es6 + ava（测试） + vscode（调试）
+- Koa核心 = 异步流程控制 + http + db
+- 实践 = 部署、前后端分离、cdn、缓存、mq、pub/sub，负载，rpc等
 
 ## day 1
 
